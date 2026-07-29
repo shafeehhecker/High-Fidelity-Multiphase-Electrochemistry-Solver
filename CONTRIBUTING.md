@@ -1,6 +1,6 @@
 # Contributing to HFMES
 
-Thanks for your interest in this project! Here's how things work around here.
+Thanks for your interest in this project! Here's how things work around here.(sorry about it)
 
 ## 🍴 Forking
 
